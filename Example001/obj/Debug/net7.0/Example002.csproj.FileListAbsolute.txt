@@ -1,0 +1,15 @@
+/Applications/Evgenij/C#/test/Example001/bin/Debug/net7.0/Example002
+/Applications/Evgenij/C#/test/Example001/bin/Debug/net7.0/Example002.deps.json
+/Applications/Evgenij/C#/test/Example001/bin/Debug/net7.0/Example002.runtimeconfig.json
+/Applications/Evgenij/C#/test/Example001/bin/Debug/net7.0/Example002.dll
+/Applications/Evgenij/C#/test/Example001/bin/Debug/net7.0/Example002.pdb
+/Applications/Evgenij/C#/test/Example001/obj/Debug/net7.0/Example002.csproj.AssemblyReference.cache
+/Applications/Evgenij/C#/test/Example001/obj/Debug/net7.0/Example002.GeneratedMSBuildEditorConfig.editorconfig
+/Applications/Evgenij/C#/test/Example001/obj/Debug/net7.0/Example002.AssemblyInfoInputs.cache
+/Applications/Evgenij/C#/test/Example001/obj/Debug/net7.0/Example002.AssemblyInfo.cs
+/Applications/Evgenij/C#/test/Example001/obj/Debug/net7.0/Example002.csproj.CoreCompileInputs.cache
+/Applications/Evgenij/C#/test/Example001/obj/Debug/net7.0/Example002.dll
+/Applications/Evgenij/C#/test/Example001/obj/Debug/net7.0/refint/Example002.dll
+/Applications/Evgenij/C#/test/Example001/obj/Debug/net7.0/Example002.pdb
+/Applications/Evgenij/C#/test/Example001/obj/Debug/net7.0/Example002.genruntimeconfig.cache
+/Applications/Evgenij/C#/test/Example001/obj/Debug/net7.0/ref/Example002.dll
